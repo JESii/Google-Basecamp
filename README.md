@@ -1,4 +1,5 @@
-= BaseCamp access routines for Google Docs
+BaseCamp access routines for Google Docs
+========================================
 
 This project provides the ability to import data from Basecamp into a Google document, such as a spreadsheet. 
 It is proof-of-concept developed for a client in 2010: they wanted to be able to display a project dashboard of their BaseCamp project. 
@@ -6,11 +7,11 @@ The prototype worked, but in the end, they decided to use a different platform f
 
 This contains the JavaScript code for accessing the BaseCamp API from Google Docs. It uses the Basecamp Classic API.
 
-== Version
+## Version
 V1.06.00 2010-11-06
 Cleaned up for public distribution 2013-10-03
 
-== Public Functions Available
+## Public Functions Available
 
 /*** Documentation
  * basecamp_list_dashboard()
@@ -70,5 +71,5 @@ Cleaned up for public distribution 2013-10-03
  *      last (most recent) comment
  */
 
-== Proof-of-concept developed by Jon Seidel / EDP Consulting, Inc.
+## Proof-of-concept developed by Jon Seidel / EDP Consulting, Inc.
 
