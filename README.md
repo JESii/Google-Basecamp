@@ -13,6 +13,7 @@ Cleaned up for public distribution 2013-10-03
 
 ## Public Functions Available
 
+```
 /*** Documentation
  * basecamp_list_dashboard()
  *  RETURNS:
@@ -70,6 +71,7 @@ Cleaned up for public distribution 2013-10-03
  *      due date
  *      last (most recent) comment
  */
+```
 
 ## Proof-of-concept developed by Jon Seidel / EDP Consulting, Inc.
 
