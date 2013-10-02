@@ -73,5 +73,5 @@ Cleaned up for public distribution 2013-10-03
  */
 ```
 
-## Proof-of-concept developed by Jon Seidel / EDP Consulting, Inc.
+Proof-of-concept developed by Jon Seidel / EDP Consulting, Inc.
 
